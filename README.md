@@ -1,5 +1,5 @@
 # maximally_sparse_convex
-Implementation for the paper "Sparse Signal Estimation by Maximally Sparse Convex Optimization" by Selesnick et al. [CLICK HERE](https://ieeexplore.ieee.org/document/6705656/citations#citations)
+Implementation for the paper "Sparse Signal Estimation by Maximally Sparse Convex Optimization" by Selesnick et al. [PAPER LINK](https://ieeexplore.ieee.org/document/6705656/citations#citations)
 
 Authors: Deep P., Vinayak Killedar
 
